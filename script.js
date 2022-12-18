@@ -1,14 +1,21 @@
 // Add your answer here
 
 $('.lesson').hover(
-    function() {
+    function() 
+    {
         $(this).find('.text-contents').css('display', 'inline-block');
+
     },
-    function() {
+    function() 
+    {
         $(this).find('.text-contents').css('display', 'none');
+
     },
+    
 $('.lesson').hover(
-    function() {
+    function() 
+    {
         $(this).find('.text-contents').css('display', 'inline');
+
     }
 ))
