@@ -1,3 +1,7 @@
+Made by: Adyatama Mahabarata
+Class : L1BC
+NIM : 2602158626
+
 ## Next, let's implement the lesson list with jQuery!
   
 ### Instructions
